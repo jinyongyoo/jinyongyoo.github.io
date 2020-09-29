@@ -13,7 +13,7 @@ layout: index
         <p id="sqar">
             <b>Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples</b><br>
             <u>Jin Yong Yoo</u>*, John X. Morris*, Eli Lifland, Yanjun Qi<br>
-            EMNLP Workshop BlackboxNLP 2020<br>
+            EMNLP BlackboxNLP Workshop 2020<br>
             [<a href="https://arxiv.org/abs/2009.06368">paper</a>]
         </p>
     </li>
@@ -21,7 +21,7 @@ layout: index
         <p id="sparc">
             <b>TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP</b><br>
             John X. Morris, Eli Lifland, <u>Jin Yong Yoo</u>, Jake Grigsby, Di Jin, Yanjun Qig<br>
-            Demo at EMNLP 2020<br>
+            EMNLP Demo 2020<br>
             [<a href="https://arxiv.org/abs/2005.05909">paper</a>]
             [<a href="https://github.com/QData/TextAttack">code</a>]
         </p>
