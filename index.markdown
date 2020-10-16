@@ -15,6 +15,7 @@ layout: index
             <u>Jin Yong Yoo</u>*, John X. Morris*, Eli Lifland, Yanjun Qi<br>
             EMNLP BlackboxNLP Workshop 2020<br>
             [<a href="https://arxiv.org/abs/2009.06368">paper</a>]
+            [<a href="https://github.com/QData/TextAttack-Search-Benchmark">code</a>]
         </p>
     </li>
     <li class="list-group-item">
