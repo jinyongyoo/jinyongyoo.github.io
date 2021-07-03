@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jin Yong Yoo
+nickname: Jeffrey
 korean_name: 유진용
 email: jy2ma@virginia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am MS student at University of Virginia advised by <a href="https://www.cs.virginia.edu/yanjun/">Yanjun Qi</a>.
-  I work on machine learning and natural language processing (NLP). 
-  In particular, I am interested in building robust and interpretable NLP models. 
-  I am one of the co-creators of <a href="https://github.com/QData/TextAttack">TextAttack</a>.
+  I am a machine learning engineer at <a href="https://hyperconnect.com/en/">Hyperconnect</a>.
+  Previously, I got my B.A. and M.S. from University of Virginia where I was advised by <a href="https://www.cs.virginia.edu/yanjun/">Yanjun Qi</a>.
+  I primarily work on natural language processing (NLP).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jinyongyoo" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jinyongyoo

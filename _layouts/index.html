@@ -25,12 +25,13 @@
 <body style="font-size: 90%">
     <header></header>
     <div class="container" style="margin-top: 3rem; max-width:900px">
-        <div>
-            <h1>
-                {{ site.title }} <small style="color:#606060; font-size: 65%"> ({{ site.korean_name }}) </small>
-            </h1>
-            <div class="row">
-                <div class="col-sm-9">
+        <div class="row">
+            <div class="col-sm-8">
+                <div>
+                    <h1>
+                        {{ site.title }} <small style="color:#606060; font-size: 65%"> <br>
+                            {{ site.nickname }} / {{ site.korean_name }} </small>
+                    </h1>
                     <p>
                         <a href="mailto:{{ site.email }}">{{ site.email }} </a><br>
                         [<a href="https://github.com/{{ site.github_username}} ">GitHub</a>]
@@ -40,10 +41,12 @@
                     <p>
                         {{ site.description }}
                     </p>
+
                 </div>
-                <div class=" col-sm-3" align="middle">
-                    <img src="assets/images/IMG_6057.jpg" class="img-responsive img-circle" alt="Jin Yong Yoo" width="200">
-                </div>
+            </div>
+            <div class=" col-sm-4" align="middle">
+                <img src="assets/images/pfp.jpg" class="img-responsive img-circle" alt="Jin Yong Yoo" width="200"
+                    style="border-radius: 50%;">
             </div>
         </div>
         <hr>
