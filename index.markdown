@@ -10,7 +10,7 @@ Publications
 </h3>
 <ul class="list-group">
 <li class="list-group-item">
-        <p id="sqar">
+        <p style="margin-bottom:0.5rem;">
             <b>Towards Improving Adversarial Training of NLP Models</b><br>
             <u>Jin Yong Yoo</u>, Yanjun Qi<br>
             EMNLP (Findings), 2021<br>
@@ -19,7 +19,7 @@ Publications
         </p>
     </li>
     <li class="list-group-item">
-        <p id="sqar">
+        <p style="margin-bottom:0.5rem;">
             <b>Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples</b><br>
             <u>Jin Yong Yoo</u>*, John X. Morris*, Eli Lifland, Yanjun Qi<br>
             EMNLP BlackboxNLP Workshop, 2020<br>
@@ -28,7 +28,7 @@ Publications
         </p>
     </li>
     <li class="list-group-item">
-        <p id="sparc">
+        <p style="margin-bottom:0.5rem;">
             <b>TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP</b><br>
             John X. Morris, Eli Lifland, <u>Jin Yong Yoo</u>, Jake Grigsby, Di Jin, Yanjun Qi<br>
             EMNLP System Demo, 2020<br>
@@ -45,7 +45,7 @@ Preprints
 </h3>
 <ul class="list-group">
     <li class="list-group-item">
-        <p id="sqar">
+        <p style="margin-bottom:0.5rem;">
             <b>Towards Automatic Actor-Critic Solutions to Continuous Control</b><br>
             Jake Grigsby, <u>Jin Yong Yoo</u>, Yanjun Qi<br>
             [<a href="https://arxiv.org/abs/2106.08918">paper</a>]
