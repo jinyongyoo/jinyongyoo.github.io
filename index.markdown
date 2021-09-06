@@ -9,11 +9,20 @@ layout: index
 Publications
 </h3>
 <ul class="list-group">
+<li class="list-group-item">
+        <p id="sqar">
+            <b>Towards Improving Adversarial Training of NLP Models</b><br>
+            <u>Jin Yong Yoo</u>, Yanjun Qi<br>
+            EMNLP (Findings), 2021<br>
+            [<a href="https://arxiv.org/abs/2109.00544">paper</a>]
+            [<a href="https://github.com/QData/TextAttack-A2T">code</a>]
+        </p>
+    </li>
     <li class="list-group-item">
         <p id="sqar">
             <b>Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples</b><br>
             <u>Jin Yong Yoo</u>*, John X. Morris*, Eli Lifland, Yanjun Qi<br>
-            EMNLP BlackboxNLP Workshop 2020<br>
+            EMNLP BlackboxNLP Workshop, 2020<br>
             [<a href="https://arxiv.org/abs/2009.06368">paper</a>]
             [<a href="https://github.com/QData/TextAttack-Search-Benchmark">code</a>]
         </p>
@@ -22,7 +31,7 @@ Publications
         <p id="sparc">
             <b>TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP</b><br>
             John X. Morris, Eli Lifland, <u>Jin Yong Yoo</u>, Jake Grigsby, Di Jin, Yanjun Qi<br>
-            EMNLP Demo 2020<br>
+            EMNLP System Demo, 2020<br>
             [<a href="https://arxiv.org/abs/2005.05909">paper</a>]
             [<a href="https://github.com/QData/TextAttack">code</a>]
         </p>
