@@ -13,7 +13,7 @@ Publications
         <p style="margin-bottom:0.5rem;">
             <b>Towards Automatic Actor-Critic Solutions to Continuous Control</b><br>
             Jake Grigsby, <u>Jin Yong Yoo</u>, Yanjun Qi<br>
-            Deep RL Workshop NeurIPS, 2021<br>
+            NeurIPS Deep RL Workshop, 2021<br>
             [<a href="https://arxiv.org/abs/2106.08918">paper</a>]
             [<a href="https://github.com/jakegrigsby/deep_control">code</a>]
         </p>
