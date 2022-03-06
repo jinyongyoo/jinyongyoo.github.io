@@ -9,7 +9,16 @@ layout: index
 Publications
 </h3>
 <ul class="list-group">
-<li class="list-group-item">
+    <li class="list-group-item">
+        <p style="margin-bottom:0.5rem;">
+            <b>Towards Automatic Actor-Critic Solutions to Continuous Control</b><br>
+            Jake Grigsby, <u>Jin Yong Yoo</u>, Yanjun Qi<br>
+            Deep RL Workshop NeurIPS, 2021<br>
+            [<a href="https://arxiv.org/abs/2106.08918">paper</a>]
+            [<a href="https://github.com/jakegrigsby/deep_control">code</a>]
+        </p>
+    </li>
+    <li class="list-group-item">
         <p style="margin-bottom:0.5rem;">
             <b>Towards Improving Adversarial Training of NLP Models</b><br>
             <u>Jin Yong Yoo</u>, Yanjun Qi<br>
@@ -40,17 +49,8 @@ Publications
 
 <i>* denotes equal contribution.</i>
 
-<h3>
+<!-- <h3>
 Preprints
-</h3>
-<ul class="list-group">
-    <li class="list-group-item">
-        <p style="margin-bottom:0.5rem;">
-            <b>Towards Automatic Actor-Critic Solutions to Continuous Control</b><br>
-            Jake Grigsby, <u>Jin Yong Yoo</u>, Yanjun Qi<br>
-            [<a href="https://arxiv.org/abs/2106.08918">paper</a>]
-        </p>
-    </li>
-</ul>
+</h3> -->
 
 <!-- <i>* denotes equal contribution.</i> -->
