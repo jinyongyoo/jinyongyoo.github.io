@@ -13,7 +13,7 @@ Publications
         <p style="margin-bottom:0.5rem;">
             <b>Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances</b><br>
             Seungju Han*, Beomsu Kim*, <u>Jin Yong Yoo*</u>, Seokjun Seo, Sangbum Kim, Enkhbayar Erdenee, Buru Chang<br>
-            NAACL (Short), 2021<br>
+            NAACL, 2022<br>
             [<a href="https://aclanthology.org/2022.naacl-main.377/">paper</a>]
             [<a href="https://github.com/hyperconnect/pseudo-dialog-prompting">code</a>]
         </p>
